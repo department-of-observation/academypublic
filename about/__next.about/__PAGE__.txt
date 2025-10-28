@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/academypublic/_next/static/chunks/ff1a16fafef87110.js","/academypublic/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"lCBJttihdN_kq6q4Qu7SX","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"prose max-w-none prose-p:leading-relaxed","children":[["$","h1",null,{"children":"About Us"}],["$","p",null,{"children":"AcademiaX is an A-Level academic site focused on practical excellence, mentorship, and pathway planning. We blend rigorous academics with applied projects."}],["$","h2",null,{"children":"Our Approach"}],["$","ul",null,{"children":[["$","li",null,{"children":"Strong fundamentals in Math, Sciences, and Writing"}],["$","li",null,{"children":"Studio-style projects and portfolio building"}],["$","li",null,{"children":"Advising for university scholarships and admissions"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
